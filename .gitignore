@@ -1,0 +1,23 @@
+# Private research sources and identity mappings
+inputs/
+names.json
+work/
+*.docx
+
+# Reporch working memory and unreviewed drafts
+MEMORY.md
+HISTORY.md
+READING.md
+TODO.md
+answers.md
+state.json
+content.json
+versions/
+out/
+assets/
+
+# Local and generated files
+.DS_Store
+__pycache__/
+*.pyc
+*.pdf
